@@ -1,0 +1,6 @@
+{
+  "name": "BOUTIKPRO",
+  "description": "Plateforme moderne de gestion commerciale, stocks, finances et boutique en ligne pour commerçants au Bénin et en Afrique de l'Ouest.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
